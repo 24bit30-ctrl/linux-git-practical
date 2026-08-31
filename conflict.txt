@@ -1,1 +1,1 @@
-content from feature A
+ Final Content after resolving Feature A and Feature b.
